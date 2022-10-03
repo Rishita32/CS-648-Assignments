@@ -1,2 +1,1 @@
-git rm --cached package.json
-git  rm --cached package-lock.json
+package.json 
