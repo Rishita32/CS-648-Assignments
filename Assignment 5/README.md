@@ -1,3 +1,3 @@
-# CS648-Assignment5
- 
-**used _SASS_ for applying style to _HTML_ Page**
+# CS648 Assignment - 5
+
+Used SASS for applying style to HTML Page
