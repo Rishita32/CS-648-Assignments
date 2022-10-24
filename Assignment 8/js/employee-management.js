@@ -6,7 +6,7 @@ var secondary2 = "#EAEFF5";
 
 var employee_list;
 
-employee_list = [["Aditi Mewada", "Manager", 101], ["John Ibrahim", "Employee", 102], ["Shah Ruk Khan", "PM", 103], ["Selmon Bhai", "Employee", 104], ["Saif Ali Khan", "Support Staff", 105]];
+employee_list = [["Rishita Mote", "Manager", 101], ["Vaidehi Jagtap", "Employee", 102], ["Priyanka Birajdar", "PM", 103], ["Salena Padres", "Employee", 104], ["David Johnson", "Support Staff", 105]];
 
 //Helper function to get an element from the DOM
 var $ = function (id) {
